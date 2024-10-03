@@ -5,3 +5,4 @@ En nuestro laboratorio estudiamos los patrones de distribución y los procesos e
 ## Ligas importantes
 
 [Página del laboratorio](https://www.biologianeotropical.com/)
+[Wiki del laboratorio](https://github.com/BiologiaNeotropical/recursos_academicos_LaBioNeo/wiki)
